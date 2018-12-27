@@ -6,19 +6,9 @@
     <description>Recent content on Andrew Marks – London, UK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Dec 2018 12:15:57 +0000</lastBuildDate>
     
 	<atom:link href="http://andrew-marks.com/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>My First Post</title>
-      <link>http://andrew-marks.com/posts/my-first-post/</link>
-      <pubDate>Thu, 27 Dec 2018 12:15:57 +0000</pubDate>
-      
-      <guid>http://andrew-marks.com/posts/my-first-post/</guid>
-      <description>This is a GOOD content.</description>
-    </item>
     
   </channel>
 </rss>
